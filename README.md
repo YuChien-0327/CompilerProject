@@ -3,6 +3,8 @@
 
 組員：00957035邱語芊、00957047呂安曦
 
+分工：分工合作，一起努力~
+
 
 ## Calculater
 可支援 pi sin cos tan log ln exp ceil uGuass lGuass floor abs 函式
