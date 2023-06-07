@@ -1,4 +1,4 @@
-# CompilerProject
+# CompilerProject編譯氣氣氣
 使用Flex 和 Bison 實作計算機程式和C語言編譯器
 
 組員：00957035邱語芊、00957047呂安曦
