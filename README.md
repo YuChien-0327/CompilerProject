@@ -16,8 +16,8 @@
 
 可支援 cin cout 簡單輸入輸出
 
-可支援 型態轉換加減乘除
+可支援 型態轉換加(int/float/double/string)減乘除(int/float/double)
 
-可支援 log sqrt abs 函式
+可支援 log() sqrt() abs() 函式，型態為 int/float/double
 
 可支援正負數定義轉換及運算
